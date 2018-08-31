@@ -1,0 +1,12 @@
+body {
+	background-color: #555151 ;
+}
+#txt {
+	height: 1000px;
+	width:  800px;
+	margin-top: 0px;
+	
+}
+.btn-group {
+	margin-top: 30px
+}
